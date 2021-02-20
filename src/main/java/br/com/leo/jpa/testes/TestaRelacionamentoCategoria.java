@@ -18,7 +18,7 @@ public class TestaRelacionamentoCategoria {
 	public static void main(String[] args) {
 		
 		Conta conta = new Conta();
-		conta.setId(2L);
+		conta.setId(34L);
 		
 		Categoria categoria = new Categoria("Viagem");
 		Categoria categoria2 = new Categoria("Negócios");
